@@ -1,0 +1,4 @@
+[package]
+name = "thm"
+version = "0.1.0"
+entrypoint = "lib.typ"
